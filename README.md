@@ -1,0 +1,2 @@
+# sana-market
+Sanal Market yazılımı kapsamında, ürünlere ilişkin bilgiler, ürün adına göre, ikili arama ağacı (binary search tree) yapısı üzerinde tutulmuştur. Ağacın her düğümünde, Ürünün adı (örnek olarak Dizüstü Bilgisayar), Kategorisi (örnek olarak Bilgisayar) ve ilgili ürün adındaki tüm marka ve modellerin listesi (ArrayList veya daha ileri bir veri yapısında) tutulmuştur. Listenin her bir elemanında ürüne ilişkin bilgileri  (Marka, Model, Miktarı, Maliyeti, SatışFiyatı, ÜrünAçıklaması) içermektedir.
